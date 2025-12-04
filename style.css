@@ -1,0 +1,14 @@
+/* Isi file style.css */
+body { 
+    background-color: #fdf2f8; 
+}
+.hero { 
+    background: linear-gradient(to right, #ec4899, #8b5cf6); 
+    color: white; 
+    padding: 50px 0; 
+    border-radius: 0 0 50px 50px; 
+}
+.card { 
+    border: none; 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+}
